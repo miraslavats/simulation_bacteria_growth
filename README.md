@@ -1,6 +1,6 @@
 # simulation_bacteria_growth
 
-In this project, I developed a simulation to model the growth and diffusion of bacteria in a 2D grid environment, coupled with food consumption. I incorporated several adjustable parameters to observe their effects on bacterial growth, diffusion, and food dynamics. Below is a detailed breakdown of the main components I implemented:
+In this [project](https://github.com/miraslavats/simulation_bacteria_growth/blob/9b2359d3176e4247511c8985db947c6892f5ee70/Assignment%202%20Bacteria%20Growth-2.ipynb), I developed a simulation to model the growth and diffusion of bacteria in a 2D grid environment, coupled with food consumption. I incorporated several adjustable parameters to observe their effects on bacterial growth, diffusion, and food dynamics. Below is a detailed breakdown of the main components I implemented:
 <br><br>
 1. **BacteriaGrowthSimulation Class**: This class is the heart of my project, and here's what I integrated within it:
   <br><br>
